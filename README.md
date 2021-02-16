@@ -1,0 +1,2 @@
+# Performance-Comparison-between-C4.5-CART-ID3-and-MLP-NN.
+We implement three of the most famous decision tree algorithms, which are CART, C4.5 and ID3, and we compare them with a neural network based algorithm. We compare the time taken to train the models and the final prediction accuracy of the decision tree algorithms with a MLP neural network. The dataset we are using for our study is the Car Evaluation Dataset acquired from University of California, Irvine.
